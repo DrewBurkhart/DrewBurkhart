@@ -2,16 +2,16 @@
 
 
 ## 🚀 About Me
-I'm a full stack engineer at Myndshft and the CTO/Co-Founder of [Edge Performance](https://edgeperformance.io).
+I'm a Software Engineer at [1Password](https://1password.com), the CTO/Co-Founder of [Edge Performance](https://edgeperformance.io), and the CTO of [Foster Marketplace](https://fostermarketplace.app).
 
 
 👩‍💻 I'm currently working on 
+- Rust
 - Swift (and SwiftUI)
-- Java/Kotlin with Spring Boot and for Android
-- Ruby (and Ruby on Rails)
-- TypeScript with Vue.js
+- Kotlin (Android)
+- TypeScript (React/Next.js)
 
-🧠 I'm currently learning rust (and re-learning RoR)
+🧠 I'm currently learning more Rust and Kotlin
 
 
 ## 🔗 Links
@@ -23,6 +23,6 @@ I'm a full stack engineer at Myndshft and the CTO/Co-Founder of [Edge Performanc
 
 
 ## 🛠 Skills
-TypeScript, Java/Kotlin, Swift, Python, Ruby, Hacklang
+Rust, TypeScript, Java/Kotlin, Swift, Python
 
 
