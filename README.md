@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm a Software Engineer at [1Password](https://1password.com), the CTO/Co-Founder of [Edge Performance](https://edgeperformance.io).
+I'm a Senior Software Engineer at [1Password](https://1password.com), the CTO/Co-Founder of [Edge Performance](https://edgeperformance.io).
 
 <details>
   <summary>🛠 Github Stats</summary>
