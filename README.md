@@ -23,7 +23,7 @@ I'm a Senior Software Engineer at [1Password](https://1password.com), the CTO/Co
 <details>
   <summary>🧠 Learning</summary>
 
-  Working through `Rust Atomics and Locks` currently
+  Working through `Asynchronous Programming in Rust` currently
 </details>
 
 
